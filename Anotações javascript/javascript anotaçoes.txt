@@ -1,0 +1,14 @@
+um array: e uma lista de dados 
+
+o que fica  na volta de um array é um []
+
+uma string: é letras, numeros, espaçoes e simbolos
+
+o if e o else e usado com {}
+
+uma function: ela pega um imput faz algo com isso, e gera um autput
+
+um boolean ele pode ser verdadeiro ou falso
+
+o que tem em volta de uma string é as aspas duplas " "
+
